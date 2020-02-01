@@ -15,7 +15,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Heroica"
+config/name="Heroica Client"
 config/icon="res://icon.png"
 
 [rendering]
